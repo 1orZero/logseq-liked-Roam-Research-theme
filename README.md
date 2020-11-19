@@ -7,5 +7,6 @@ This theme is modified from 丙玉珂
 
 Credit to [丙玉珂 @Bingyuke](https://twitter.com/Bingyuke)
 
-
+## Demo
+![Screenshot](https://github.com/1orZero/logseq-liked-Roam-Research-theme/blob/main/Demo.PNG?raw=true)
 This theme will not be updated anymore. Last Updated: 19/11/2020
