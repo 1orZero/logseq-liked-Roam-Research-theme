@@ -1,6 +1,6 @@
 # logseq-liked-Roam-Research-theme
 
-> this theme is modified from 丙玉珂
+This theme is modified from 丙玉珂
 
 [![Twitter ref](https://raw.githubusercontent.com/1orZero/logseq-liked-Roam-Research-theme/main/twitter.PNG)](https://twitter.com/Bingyuke/status/1316696736287518720)
 
