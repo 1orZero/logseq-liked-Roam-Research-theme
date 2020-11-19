@@ -1,4 +1,4 @@
-# Logseq-liked Roam Research theme
+# A Logseq-liked theme for Roam Research
 
 **This theme is modified from 丙玉珂**
 
